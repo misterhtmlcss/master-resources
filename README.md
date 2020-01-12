@@ -41,4 +41,5 @@ This is my master list of resources. If I ever find something useful it will go 
 
 ## Other
 
+* [Devhints.io: Cheatsheet for nearly anything](https://devhints.io)
 * [Service Workies](https://serviceworkies.com/)
