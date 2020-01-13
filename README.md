@@ -33,9 +33,30 @@ This is my master list of resources. If I ever find something useful it will go 
 
 ## HTML
 
-### Reading
+* [Mozilla Developer Network | HTML Section](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
-* [Mozilla Developer Network | CSS Section](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+---
+
+## PODCASTS
+
+* [Syntax.fm](https://syntax.fm/)
+
+---
+
+## Developer websites
+* [Dev.to](https://dev.to/)
+* [CSS Tricks](https://css-tricks.com/)
+* [Smashing Magazine](https://www.smashingmagazine.com/)
+* [SitePoint](https://www.sitepoint.com/blog/)
+
+---
+
+## Developer newsletters
+* [JavaScript Weekly](https://javascriptweekly.com/)
+* [NodeJS Weekly](https://nodeweekly.com/)
+* [CSS Weekly](https://css-weekly.com/)
+* [Frontend Mentor](https://frontendmentor.us19.list-manage.com/subscribe?u=efe35252db9bea1dac75aca25&id=8e63782fc5)
+* [Mobile Dev Weekly](https://mobiledevweekly.com/)
 
 ---
 
@@ -43,3 +64,5 @@ This is my master list of resources. If I ever find something useful it will go 
 
 * [Devhints.io: Cheatsheet for nearly anything](https://devhints.io)
 * [Service Workies](https://serviceworkies.com/)
+
+---
