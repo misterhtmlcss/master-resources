@@ -68,4 +68,4 @@ This is my master list of resources. If I ever find something useful it will go 
 ---
 
 
-[Instructor link](https://login.microsoftonline.com/common/)
+[Instructor link](https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000)
