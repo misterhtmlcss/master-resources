@@ -66,3 +66,6 @@ This is my master list of resources. If I ever find something useful it will go 
 * [Service Workies](https://serviceworkies.com/)
 
 ---
+
+
+[Instructor link](https://login.microsoftonline.com/common/)
