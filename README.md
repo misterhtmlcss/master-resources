@@ -9,6 +9,7 @@ This is my master list of resources. If I ever find something useful it will go 
 * [Modern JavaScript Tutorial](https://javascript.info/)
 * [Mozilla Developer Network | JavaScript Section](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 * [Sitepoint: Truthy and Falsy](https://www.sitepoint.com/javascript-truthy-falsy/)
+* [JavaScript for Cats](http://jsforcats.com/)
 
 ---
 
@@ -16,6 +17,7 @@ This is my master list of resources. If I ever find something useful it will go 
 
 * [Mozilla Developer Network | CSS Section](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 * [Unfolding the Box Model](https://rupl.github.io/unfold/)
+* [CSS3 Cheatsheet](https://www.onblastblog.com/css3-cheat-sheet/)
 
 ### Flexbox Games
 
@@ -39,6 +41,8 @@ This is my master list of resources. If I ever find something useful it will go 
 * [HTML.com](https://html.com/)
 * [HTML Color Codes](https://html-color-codes.info/)
 * [HTMLDog HTML](https://htmldog.com/guides/html/)
+* [Geeks For Geeks: HTML Section](https://www.geeksforgeeks.org/html-tutorials/)
+* [HTML Cheatsheet](https://digital.com/tools/html-cheatsheet/)
 
 ---
 
