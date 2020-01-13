@@ -8,6 +8,7 @@ This is my master list of resources. If I ever find something useful it will go 
 
 * [Modern JavaScript Tutorial](https://javascript.info/)
 * [Mozilla Developer Network | JavaScript Section](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+* [Sitepoint: Truthy and Falsy](https://www.sitepoint.com/javascript-truthy-falsy/)
 
 ---
 
@@ -34,6 +35,10 @@ This is my master list of resources. If I ever find something useful it will go 
 ## HTML
 
 * [Mozilla Developer Network | HTML Section](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+* [HTML Reference](https://htmlreference.io/)
+* [HTML.com](https://html.com/)
+* [HTML Color Codes](https://html-color-codes.info/)
+* [HTMLDog HTML](https://htmldog.com/guides/html/)
 
 ---
 
