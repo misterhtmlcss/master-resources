@@ -38,6 +38,7 @@ This is my master list of resources. If I ever find something useful it will go 
 
 * [Mozilla Developer Network | HTML Section](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * [HTML Reference](https://htmlreference.io/)
+* [HTML5Doctor](http://html5doctor.com/)
 * [HTML.com](https://html.com/)
 * [HTML Color Codes](https://html-color-codes.info/)
 * [HTMLDog HTML](https://htmldog.com/guides/html/)
